@@ -58,6 +58,6 @@ There are 16,598 observations about 11493 video games, with 11 features, as desc
 * Once a platform clicks in the market i.e. top selling, it goes on to rule for few years (3-6 years).
 * North America and Europe contribute 75% of the market share by revenue, and both had their sales peak in 2006, although the global sales peak was in 2008.
 
-[Video_Games_Sales.html](): A full report on the insights found.
+[Video_Games_Sales.html](https://github.com/BayanAlArifi/Video_Games_Sales/blob/master/Video_Games_Sales.html): A full report on the insights found.
 
 One aspect that limited this analysis is the absence of the sales of other parts of the world, rather than just having the variable Other_Sales. Also, the month of the year could likely contribute to the rise of sales. For example, certain video game genres could be always popular in a certain month of the year. For future work, I would like to find data on the buyers demographic which could explain a lot of the resons behind the trends found, and improve the analysis. It will also help draw recommendations to the decision makers in this industry on where to focus their budget; which genre, which region, which platform, etc.
