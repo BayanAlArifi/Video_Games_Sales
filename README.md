@@ -3,9 +3,9 @@
 ## Table of Contents
 - [Introduction](#intro)
 - [Data](#data)
-- [Univariate](#univariate)
-- [Bivariate](#bivariate)
-- [Multivariate](#multivariate)
+- [Univariate Analysis](#univariate)
+- [Bivariate Analysis](#bivariate)
+- [Multivariate Analysis](#multivariate)
 - [Reflection](#reflection)
 
 
